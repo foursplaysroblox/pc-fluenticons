@@ -1,10 +1,10 @@
 {
     "name": "Fluent Icons",
-    "description": "An icon pack for Powercord that replaces most icons with Microsoft's Fluent Design Icons.",
-    "version": "1.8.2",
+    "description": "An icon pack for Powercord & Replugged that replaces most icons with Microsoft's Fluent Design Icons.",
+    "version": "1.8.3",
     "author": "stickfab#0985",
     "theme": "FluentIcons.css",
     "consent": [ "ext_listing" ],
     "license": "MIT",
-    "preview": [ "https://cdn.discordapp.com/attachments/907448714254237726/945503400093712404/unknown.png" ]
+    "preview": [ "https://repository-images.githubusercontent.com/462101141/77afc648-8708-40a0-a656-72ffcc11af24" ]
 }   
