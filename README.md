@@ -1,5 +1,5 @@
 # Fluent Icons
-An icon pack for Powercord & BetterDiscord that replaces most icons with Microsoft's Fluent Design Icons. This theme is forked/based on [GoogleMaterialIcons](https://github.com/DavidNyan10/GoogleMaterialIcons).
+An icon pack for Replugged, Powercord & BetterDiscord that replaces most icons with Microsoft's Fluent Design Icons. This theme is forked/based on [GoogleMaterialIcons](https://github.com/DavidNyan10/GoogleMaterialIcons).
 
 ## Preview
 ![Preview](https://repository-images.githubusercontent.com/462101141/77afc648-8708-40a0-a656-72ffcc11af24)
@@ -11,7 +11,7 @@ An icon pack for Powercord & BetterDiscord that replaces most icons with Microso
 
 ![Settings Icons](https://cdn.discordapp.com/attachments/956648618696273990/990695027762159707/DiscordCanary_20220626_160808.png) ![Preview](https://cdn.discordapp.com/attachments/956648618696273990/990695170972463224/unknown.png)
 
-## Powercord Theme Installation
+## Powercord/Replugged Theme Installation
 Open your themes folder with your terminal of choice and paste the following:
 
 	git clone https://github.com/stickfab/pc-fluenticons
