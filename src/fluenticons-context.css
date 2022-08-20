@@ -1288,7 +1288,7 @@
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/phone_desktop.svg') !important;
 }
 
-#user-settings-cog-Connections::before {
+#user-settings-cog-Passport::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/plug_connected.svg') !important;
 }
 
@@ -1386,7 +1386,7 @@
 }
 
 #user-settings-cog-changelog::before {
-	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/20/text_bullet_list_square_clock.svg') !important;
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/history.svg') !important;
 }
 
 #user-settings-cog-Hypesquad_Online::before {
