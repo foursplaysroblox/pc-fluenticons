@@ -939,6 +939,13 @@
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/calendar_add.svg') !important;
 }
 
+#guild-header-popout-active-threads::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment.svg') !important;
+}
+.item-1OdjEX#guild-header-popout-active-threads .iconContainer-1-SsTR{
+	display: none;
+}
+
 #guild-header-popout-opt-in[aria-checked="true"]::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment.svg') !important;
 }
