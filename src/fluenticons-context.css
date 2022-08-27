@@ -1070,6 +1070,36 @@
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment_dismiss.svg') !important;
 }
 
+#welcome-settings-context-move-up::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/arrow_sort_up.svg') !important;
+}
+#welcome-settings-context-move-down::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/arrow_sort_down.svg') !important;
+}
+#welcome-settings-context-edit::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment_edit.svg') !important;
+}
+#welcome-settings-context-delete::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment_dismiss.svg') !important;
+}
+.item-1OdjEX#welcome-settings-context-delete.colorDefault-CDqZdO {
+	background: var(--danger-background-normal);
+	color: var(--status-danger)
+}
+
+.item-1OdjEX#welcome-settings-context-delete.colorDefault-CDqZdO.focused-3qFvc8 {
+	background: var(--status-danger);
+	color: var(--danger-text-focused)
+}
+
+.item-1OdjEX#welcome-settings-context-delete.colorDefault-CDqZdO::before {
+	background: var(--status-danger)
+}
+
+.item-1OdjEX#welcome-settings-context-delete.colorDefault-CDqZdO.focused-3qFvc8::before {
+	background: var(--danger-icon-focused)
+}
+
 #guild-context-mark-folder-read::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/checkmark_circle.svg') !important;
 }
