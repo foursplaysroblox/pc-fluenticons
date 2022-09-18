@@ -369,18 +369,23 @@
 #game-context-install::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/arrow_download.svg') !important;
 }
+
 #game-context-uninstall::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/uninstall_app.svg') !important;
 }
+
 #game-context-private::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/calendar_agenda.svg') !important;
 }
+
 #game-context-on-overlay::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/picture_in_picture.svg') !important;
 }
+
 #game-context-in-library::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/eye_off.svg') !important;
 }
+
 #game-context-create-shortcut::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/desktop_arrow_right.svg') !important;
 }
@@ -942,7 +947,8 @@
 #guild-header-popout-active-threads::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment.svg') !important;
 }
-.item-1OdjEX#guild-header-popout-active-threads .iconContainer-1-SsTR{
+
+.item-1OdjEX#guild-header-popout-active-threads .iconContainer-1-SsTR {
 	display: none;
 }
 
@@ -1073,15 +1079,19 @@
 #welcome-settings-context-move-up::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/arrow_sort_up.svg') !important;
 }
+
 #welcome-settings-context-move-down::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/arrow_sort_down.svg') !important;
 }
+
 #welcome-settings-context-edit::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment_edit.svg') !important;
 }
+
 #welcome-settings-context-delete::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/comment_dismiss.svg') !important;
 }
+
 .item-1OdjEX#welcome-settings-context-delete.colorDefault-CDqZdO {
 	background: var(--danger-background-normal);
 	color: var(--status-danger)
@@ -1160,6 +1170,10 @@
 #thread-context-archive-thread::before,
 #thread-context-unarchive-thread::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/archive.svg') !important;
+}
+
+#thread-context-archive-lock-thread::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/lock_closed.svg') !important;
 }
 
 #thread-context-auto-archive-thread::before {
