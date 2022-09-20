@@ -1339,7 +1339,12 @@
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/phone_desktop.svg') !important;
 }
 
+/* Probably Deprecated */
 #user-settings-cog-Passport::before {
+	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/plug_connected.svg') !important;
+}
+
+#user-settings-cog-Connections::before {
 	--icon: url('https://stickfab.github.io/pc-fluenticons/assets/24/plug_connected.svg') !important;
 }
 
