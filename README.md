@@ -1,5 +1,5 @@
 # Fluent Icons
-An icon pack for Replugged, Powercord & BetterDiscord that replaces most icons with Microsoft's Modern Fluent Design Icons from Windows 11. This theme is forked/based on [GoogleMaterialIcons](https://github.com/DavidNyan10/GoogleMaterialIcons).
+An icon pack for Replugged, Powercord & BetterDiscord that replaces most icons with Microsoft's Modern Fluent Design Icons from Windows 11. This theme is forked/based on [GoogleMaterialIcons](https://github.com/DavidNyan10/GoogleMaterialIcons). Also I forked this pc-fluenticons theme the orginal is here: [Original](https://github.com/stickfab/pc-fluenticons)
 
 ## Preview
 ![Preview](https://repository-images.githubusercontent.com/462101141/77afc648-8708-40a0-a656-72ffcc11af24)
